@@ -1,12 +1,19 @@
-# Discord Music Bot 
-<H2> -> Similar to rythm(Now discontinued).
-<H2> -> Modules Required:
-  <H3>1. discord.py or it's mirrorimage discord
-  <H3>2. youtube_dl
-    <Br>
-<H2> Start With:
-  <H3>?join after connecting to a voice channel.
-  <H3>?play url(youtube)
-  <H3>?pause
-  <H3>?resume
-  <H3>?disconnect
+# Eve - Discord Music Bot 
+## Start With:
+#### After joining a voice channel, invite Eve:-
+> ?join 
+#### Playing a song - paste the Youtube Url of song you wanna play:-
+> ?play url
+#### Pause
+> ?pause
+#### Resume
+> ?resume
+#### Disconnecting Eve after the session is over:-
+> ?disconnect
+# For Developers:
+## Modules Required to run Eve in your IDE:
+```
+discord.py
+youtube_dl
+pyNaCl
+```
